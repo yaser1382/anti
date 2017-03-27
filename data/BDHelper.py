@@ -8,9 +8,9 @@ reload(sys)
 sys.setdefaultencoding("utf-8")
 
 
-api = "248990089:AAEvyWp4P85jWHml6wCf43IsiZ7U_7oNQ84"
+api = "353451139:AAGlXmVF1g9mQ83vV3d9e21NKrikOunfDtU"
 helper = telebot.TeleBot(api)
-sudo = [201704410]
+sudo = [188213002]
 
 def load_data(filename):
 	f = open(filename)
